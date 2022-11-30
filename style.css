@@ -1,0 +1,22 @@
+.box{
+    height: 500px;
+    width: 500px;
+}
+
+
+
+.box1{
+    background-image: url(niko.jpg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+   
+    
+}
+
+.box2{
+    background-image: url(niko1.jpg);
+ background-repeat: no-repeat;
+   background-size: contain;    
+    
+}
+
